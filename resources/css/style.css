@@ -1,0 +1,28 @@
+*{
+font-family: Verdana;
+text-align: Center;
+background-color: black;
+}
+h1{
+Font-weight: Normal;
+Font-size: 50px;
+color: White;
+text-align: Centered;
+}
+.download{
+color: Aquamarine;
+Font-size: 16px;
+  }
+h2{
+  font-weight: 300;
+  font-size:42px;
+  color:white;
+  }
+.copyright{
+  text-align: right;
+  color: gray;
+}
+.moto{
+  font-size:21px;
+  color:gray;
+}
